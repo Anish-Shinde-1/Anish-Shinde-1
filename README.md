@@ -1,9 +1,9 @@
 <h1 align="center">Hey! I'm Anish Shinde</h1>
 <h3 align="center">A passionate developer from Mumbai, India.</h3>
 
-- 🔭 I’m currently working on
-- 1. [CLI Text Editor - C](https://github.com/Anish-Shinde-1/CPROJECTS/tree/main/Text%20Editor)
-- 2. [Password Manager - Java](https://github.com/Anish-Shinde-1/CPROJECTS/tree/main/Text%20Editor)
+- 🔭 I’m currently working on :
+-> [CLI Text Editor - C](https://github.com/Anish-Shinde-1/CPROJECTS/tree/main/Text%20Editor)
+-> [Password Manager - Java](https://github.com/Anish-Shinde-1/CPROJECTS/tree/main/Text%20Editor)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
