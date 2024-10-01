@@ -1,4 +1,4 @@
-<h1 align="center">Hey!, I'm Anish Shinde</h1>
+<h1 align="center">Hey! I'm Anish Shinde</h1>
 <h3 align="center">A passionate developer from Mumbai, India.</h3>
 
 - 🔭 I’m currently working on [CLI Text Editor in C](https://github.com/Anish-Shinde-1/CPROJECTS/tree/main/Text%20Editor)
