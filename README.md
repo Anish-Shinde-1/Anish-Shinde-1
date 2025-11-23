@@ -35,11 +35,10 @@ Usually am learning something new, fixing something old, or in the vicinity of a
 
 ## GitHub Vibes
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Anish-Shinde-1&theme=tokyonight" width="500"/><br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Anish-Shinde-1&show_icons=true&theme=tokyonight" width="500"/><br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anish-Shinde-1&layout=compact&theme=tokyonight" width="500"/>
-</p>
+<p align="center"> 
+	<img src="https://github-readme-streak-stats.herokuapp.com?user=Anish-Shinde-1&theme=tokyonight" height="120"/>
+	 <img src="https://github-readme-stats.vercel.app/api?username=Anish-Shinde-1&show_icons=true&theme=tokyonight" height="120"/>
+	 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anish-Shinde-1&layout=compact&theme=tokyonight" height="120"/> </p>
 
 ---
 
