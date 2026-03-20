@@ -10,18 +10,18 @@
 I’m an aspiring **Backend & Systems Developer** who enjoys learning about network architectures, writing mind bending code, and diving too deep into things I probably shouldn’t.
 Usually am learning something new, fixing something old, or in the vicinity of a temple.
 
-* 🔧 Currently grinding **C++ DSA**
-* 🌱 Obsessed with learning **how things work under the hood**
-* 🎯 Goal: Become active in **open-source** and build cool dev tools
-* 💬 Ask me about **Networking • Linux**
-* ⚡ Fun fact: Life threw exceptions. I didn’t handle them.
+* Currently indulging in **C++ DSA**
+* Interested in learning **how things work under the hood**
+* Trying to actively contribute in **open-source** and build cool dev tools
+* Fascinated by **Networking and Systems**
+* FYI : Life throws exceptions. I don’t handle them.
 
 ---
 
 ## Currently Working On
 
 * Learning backend architecture properly
-* Learning DSA so that I can qualify for employment
+* Learning Networking 
 * Home Lab using VMware and a few Linux machines 
 
 ---
