@@ -21,7 +21,7 @@ Usually am learning something new, fixing something old, or in the vicinity of a
 ## Currently Working On
 
 * Learning backend architecture properly
-* Building TCP & TLS based Multi Client Chat Server with Rooms
+* Building TCP & TLS based Multi Client Chat Server with State Management
 * Home Lab using VMware and a few Linux machines 
 
 
